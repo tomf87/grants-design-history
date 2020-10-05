@@ -14,7 +14,12 @@ const domain = 'http://localhost:3000'
  * ]
  */
 const paths = [
-  { title: 'Index page', path: '/'}
+  { title: 'Guidance page all', path: '/current/views/guidance/all-grants' },
+  { title: 'Guidance page water', path: '/current/views/guidance/large-water' },
+  { title: 'Guidance page slurry', path: '/current/views/guidance/large-slurry' },
+  { title: 'V1 start page', path: '/v2/views/start' },
+  { title: 'V2 start page water', path: '/current/views/water/start' },
+  { title: 'v2 start page slurry', path: '/current/views/slurry/start' }
 ]
 
 /*
