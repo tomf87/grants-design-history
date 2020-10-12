@@ -17,9 +17,24 @@ const paths = [
   { title: 'Guidance page all', path: '/current/views/guidance/all-grants' },
   { title: 'Guidance page water', path: '/current/views/guidance/large-water' },
   { title: 'Guidance page slurry', path: '/current/views/guidance/large-slurry' },
+
   { title: 'V1 start page', path: '/v2/views/start' },
   { title: 'V2 start page water', path: '/current/views/water/start' },
-  { title: 'v2 start page slurry', path: '/current/views/slurry/start' }
+  { title: 'v2 start page slurry', path: '/current/views/slurry/start' },
+
+  { title: 'V1 farming type', path: '/v2/views/farming-type' },
+  { title: 'V1 farming type fail', path: '/v2/views/farming-type-fail' },
+  { title: 'V2 farming type water', path: '/current/views/water/farming-type' },
+  { title: 'V2 farming type water fail', path: '/current/views/water/farming-type-fail' },
+  { title: 'v2 farming type slurry', path: '/current/views/slurry/farming-type' },
+  { title: 'v2 farming type slurry fail', path: '/current/views/slurry/farming-type-fail' },
+
+  { title: 'V1 country', path: '/v2/views/country' },
+  { title: 'V1 country fail', path: '/v2/views/country-fail' },
+  { title: 'V2 country water', path: '/current/views/water/country' },
+  { title: 'V2 country water fail', path: '/current/views/water/country-fail' },
+  { title: 'v2 country slurry', path: '/current/views/slurry/country' },
+  { title: 'v2 country slurry fail', path: '/current/views/slurry/country-fail' }
 ]
 
 /*
